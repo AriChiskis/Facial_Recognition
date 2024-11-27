@@ -20,3 +20,6 @@ Our system utilizes several AWS services to boost its performance:
 
 #### Social media's platforms ApI - Telethon
 
+### Current Issues
+Due to ongoing issues with the Telethon API, functionality for media downloads from Telegram is temporarily disabled.
+
