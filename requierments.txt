@@ -1,0 +1,11 @@
+datetime
+tqdm
+imageio
+pandas
+numpy
+pillow
+deepface
+cv2
+boto3
+thelethon
+
